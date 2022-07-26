@@ -4,12 +4,12 @@ constant: CONNECTION_NAME {
 }
 
 constant: GCP_PROJECT {
-  value: "GCP Project Name"
+  value: "cortex-353420"
   export: override_required
 }
 
 constant: REPORTING_DATASET {
-  value: "Reporting Dataset Name"
+  value: "SAP_REPORTING"
   export: override_required
 }
 
