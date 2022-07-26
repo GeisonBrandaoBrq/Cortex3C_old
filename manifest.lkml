@@ -1,5 +1,5 @@
 constant: CONNECTION_NAME {
-  value: "cortex"
+  value: "conn_cortex"
   export: override_required
 }
 
